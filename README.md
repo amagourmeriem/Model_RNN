@@ -1,4 +1,4 @@
-### 🌟 Projet RNN - Prédiction Séquentielle 📈
+# 🌟 Projet RNN - Prédiction Séquentielle 📈
 Bienvenue dans ce projet de réseau neuronal récurrent (RNN) ! 🚀 Ce guide vous aidera à installer et exécuter le projet étape par étape. 💻
 
 ## 🛠️ Prérequis
@@ -10,14 +10,14 @@ Git pour cloner le dépôt 📂
 Une machine avec au moins 8 Go de RAM 💾
 
 ## 📥 Installation
-# Clonez le dépôt 🌐
+### Clonez le dépôt 🌐
 Utilisez Git pour cloner le dépôt et accéder au dossier du projet :
 git clone https://github.com/amagourmeriem/Model_RNN.git
 Ensuite, entrez dans le dossier : cd rnn-project
 
-# Créez un environnement virtuel 🐾
+### Créez un environnement virtuel 🐾
 
-# Créez un environnement virtuel avec la commande suivante :
+### Créez un environnement virtuel avec la commande suivante :
 Sur Linux/Mac : python -m venv venv puis source venv/bin/activate
 Sur Windows : python -m venv venv puis venv\Scripts\activate
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## 📊 Données
 Téléchargez les données d'entraînement 📂
 Placez vos fichiers de données dans le dossier data/.
-# Exemple de fichiers requis :
+ Exemple de fichiers requis :
 
 data/input_sequences.csv
 data/target_values.csv
