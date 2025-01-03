@@ -15,9 +15,9 @@ Utilisez Git pour cloner le dépôt et accéder au dossier du projet :
 git clone https://github.com/amagourmeriem/Model_RNN.git
 Ensuite, entrez dans le dossier : cd rnn-project
 
-### Créez un environnement virtuel 🐾
+ Créez un environnement virtuel 🐾
 
-### Créez un environnement virtuel avec la commande suivante :
+ Créez un environnement virtuel avec la commande suivante :
 Sur Linux/Mac : python -m venv venv puis source venv/bin/activate
 Sur Windows : python -m venv venv puis venv\Scripts\activate
 
